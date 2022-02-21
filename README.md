@@ -57,3 +57,7 @@ Group Members:
 - Select a refund after entering the system.
 - Enter the ticket id.
 - Request a refund. 
+
+# Contributions
+
+![Contributions](https://user-images.githubusercontent.com/83620288/154875233-238e5c05-b14a-4acf-93c8-ee6cf91c3f01.png)
