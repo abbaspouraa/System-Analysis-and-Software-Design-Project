@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Submission-App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Submission_App_jar</output-path>
+    <root id="archive" name="Submission-App.jar">
+      <element id="module-output" name="Submission-App" />
+    </root>
+  </artifact>
+</component>
